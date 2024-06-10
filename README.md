@@ -5,3 +5,7 @@ Amidst the waves of the ocean's embrace, may your soirées be a celebration of p
 
 - Java & Kotlin
 - JavaScript, HTML5, CSS3, React & Angular
+- Go & Rust
+- Server Security
+
+-> E-Commerce 
